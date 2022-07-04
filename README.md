@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aryan-Kamboj11
-- 👀 I’m interested in MAchine Learning and Web Develpment
+- 👀 I’m interested in Machine Learning and Web Develpment
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine learning or data science related projects
 - 📫 You can contact me through my email id kambojaryankamboj@gmail.com
