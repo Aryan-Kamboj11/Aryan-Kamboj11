@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan-Kamboj11
+- 👋 Hi, I’m @Aryan-Kamboj
 - 👀 I’m interested in Machine Learning and Web Develpment
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine learning or data science related projects
